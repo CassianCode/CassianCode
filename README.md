@@ -59,4 +59,4 @@
 
 ---
 
-Since you've made it all the way down here: Did you know I also have a bachelor's degree in phylosophy? 🎓
+Since you've made it all the way down here: Did you know I also have a bachelor's degree in philosophy? 🎓
