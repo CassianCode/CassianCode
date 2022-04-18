@@ -33,12 +33,6 @@
 
 <br>
 
-📝 Planning: 
-
-<img alt="Trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" height="30" />&nbsp;
-
-<br>
-
 🔍 Google is your friend 
 
 <img alt="google is your friend" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" height="30" />&nbsp;
@@ -65,4 +59,4 @@
 
 ---
 
-Since you've made it all the way down here: Did you I also have a bachelor's degree in phylosophy? 🎓
+Since you've made it all the way down here: Did you know I also have a bachelor's degree in phylosophy? 🎓
